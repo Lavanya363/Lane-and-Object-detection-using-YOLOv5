@@ -1,4 +1,4 @@
-           Real Time Lane and Object Detection using YOLOv5
+           **Real Time Lane and Object Detection using YOLOv5**
            📌Project Overview:
            This project aims to build a real-time lane and object detection system using the YOLOv5 model.
            It combines computer vision techniques and deep learning to identify road lanes and detect 
